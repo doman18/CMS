@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="bootstrap">
+            <file>file:/D:/DyskGoogle/www/CMS/src/Controllers/SomeController.php</file>
+            <file>file:/D:/DyskGoogle/www/CMS/src/Engine/Model.php</file>
+            <file>file:/D:/DyskGoogle/www/CMS/route-config.php</file>
+            <file>file:/D:/DyskGoogle/www/CMS/route.php</file>
+            <file>file:/D:/DyskGoogle/www/CMS/src/Engine/Controller.php</file>
+            <file>file:/D:/DyskGoogle/www/CMS/config.php</file>
+        </group>
+        <group>
+            <file>file:/D:/wamp64/www/waxing-cms/src/Controllers/SomeController.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/Models/auth.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/Engine/View.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/composer.json</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/Engine/Controller.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/vendor/autoload.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/templates/index.html.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/Engine/Model.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/route-config.php</file>
+            <file>file:/D:/wamp64/www/waxing-cms/src/templates/about.html.php</file>
+        </group>
+    </open-files>
+</project-private>

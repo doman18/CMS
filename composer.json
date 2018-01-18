@@ -1,0 +1,17 @@
+{
+    "name": "domanpanda/cms",
+    "description": "CMS Dominik Panas",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Panas",
+            "email": "domanpanda@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "tightenco/collect": "^5.4",
+        "twig/twig": "^1.34"
+    }
+}
